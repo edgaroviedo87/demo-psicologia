@@ -645,6 +645,12 @@ em { font-style: italic; }
 .card--featured .link-arrow { color: var(--clay-soft); }
 .card--featured { box-shadow: 0 0 0 6px rgba(30, 43, 37, 0.08), 0 0 0 7px rgba(30, 43, 37, 0.1); }
 
+.services__more {
+  margin-top: clamp(2rem, 4vw, 2.75rem);
+  max-width: 62ch;
+  color: var(--ink-soft);
+}
+
 /* ==========================================================================
    First session
    ========================================================================== */

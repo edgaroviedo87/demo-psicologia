@@ -5,8 +5,8 @@ const WHATSAPP_MESSAGES = {
   demo: "Hola, vi el sitio de ejemplo de psicología y me gustaría uno para mi consultorio.",
   general: "Hola, vi el sitio de ejemplo de psicología y me gustaría más información.",
   individual: "Hola, vi el sitio de ejemplo (terapia individual) y me gustaría más información.",
-  pareja: "Hola, vi el sitio de ejemplo (terapia de pareja) y me gustaría más información.",
-  enlinea: "Hola, vi el sitio de ejemplo (terapia en línea) y me gustaría más información.",
+  duelo: "Hola, vi el sitio de ejemplo (acompañamiento en duelo) y me gustaría más información.",
+  infantil: "Hola, vi el sitio de ejemplo (infancia y adolescencia) y me gustaría más información.",
 };
 
 document.documentElement.classList.add("js");
